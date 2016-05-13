@@ -1,0 +1,6 @@
+A = Codex rescriptus Ambrosianus
+B = Vetus codex camerarii ’
+0 = Codex alter camerarii
+
+ 
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tmacciplautimen00vahlgoog_0010.png"; bbox 0 0 3102 4766; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 294 1979 1129 2100">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 294 1979 1129 2100">
+     <span class='ocr_line' id='line_1_1' title="bbox 294 1979 1129 2100; baseline -0.004 -1"><span class='ocrx_word' id='word_1_1' title='bbox 294 1981 592 2099; x_wconf 87' lang='lat' dir='ltr'><strong>PLAUTI</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 626 1979 1129 2100; x_wconf 84' lang='lat' dir='ltr'><strong>MENAEOHMI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1556 4766">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1556 4766">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1556 4766; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 0 0 1556 4766; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
